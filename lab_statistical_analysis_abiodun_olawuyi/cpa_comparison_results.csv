@@ -1,0 +1,16 @@
+group_A,group_B,mean_A,mean_B,n_A,n_B,difference,pct_diff,t_stat,p_value,cohens_d,effect_size,significant,significant_bonferroni,p_value_fdr,significant_fdr
+Google Display,Google Search,349.54,90.65,811,1068,-258.89,-74.1,17.82,0.0,-0.79,medium,True,True,0.0,True
+Google Display,LinkedIn,349.54,913.53,811,760,563.99,161.4,-14.359,0.0,0.717,medium,True,True,0.0,True
+Google Display,Meta,349.54,228.71,811,1064,-120.83,-34.6,6.296,0.0,-0.292,small,True,True,0.0,True
+Google Display,Snapchat,349.54,255.4,811,930,-94.14,-26.9,4.84,0.0,-0.232,small,True,True,0.0,True
+Google Display,TikTok,349.54,247.06,811,1012,-102.48,-29.3,5.38,0.0,-0.252,small,True,True,0.0,True
+Google Search,LinkedIn,90.65,913.53,1068,760,822.88,907.7,-25.565,0.0,1.113,large,True,True,0.0,True
+Google Search,Meta,90.65,228.71,1068,1064,138.06,152.3,-10.204,0.0,0.442,small,True,True,0.0,True
+Google Search,Snapchat,90.65,255.4,1068,930,164.75,181.7,-12.393,0.0,0.544,medium,True,True,0.0,True
+Google Search,TikTok,90.65,247.06,1068,1012,156.41,172.5,-11.858,0.0,0.516,medium,True,True,0.0,True
+LinkedIn,Meta,913.53,228.71,760,1064,-684.82,-75.0,19.713,0.0,-0.877,large,True,True,0.0,True
+LinkedIn,Snapchat,913.53,255.4,760,930,-658.13,-72.0,18.013,0.0,-0.847,large,True,True,0.0,True
+LinkedIn,TikTok,913.53,247.06,760,1012,-666.46,-73.0,18.904,0.0,-0.857,large,True,True,0.0,True
+Meta,Snapchat,228.71,255.4,1064,930,26.69,11.7,-1.507,0.1321,0.068,negligible,False,False,0.1524230769230769,False
+Meta,TikTok,228.71,247.06,1064,1012,18.35,8.0,-1.06,0.2894,0.047,negligible,False,False,0.31007142857142855,False
+Snapchat,TikTok,255.4,247.06,930,1012,-8.33,-3.3,0.474,0.6353,-0.022,negligible,False,False,0.6353,False
